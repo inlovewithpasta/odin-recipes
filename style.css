@@ -1,0 +1,30 @@
+body {
+    background-color: antiquewhite;
+    font-family: Tahoma, sans-serif;
+    padding-left: 2cm;
+    padding-right: 2cm;
+    padding-bottom: 3cm;
+}
+
+h1, h2 {
+    color: rgb(184, 134, 11);
+}
+
+h1 {
+    text-align: center;
+}
+
+p, li {
+    font-size: 25px;
+    background-color: bisque;
+}
+
+a {
+    color: red;
+}
+
+img {
+    padding: inherit;
+    margin:auto;
+    display: block;
+}
